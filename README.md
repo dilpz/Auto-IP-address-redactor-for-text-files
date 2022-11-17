@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dilpz I'm a complete beginner to coding!
-- 👀 I’m currently dabbling with python to automate my day job and to kill boredom
-
-check my code tell a noob how 
+- 👋 Hi, I’m @dilpz I'm a complete beginner to coding as of June 2022 ! I'm self studying python inbetween work tasks.
+- 👀 Check out my code and tell me how to improve it!
 
 
 <!---
