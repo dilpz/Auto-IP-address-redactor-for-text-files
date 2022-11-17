@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @dilpz I'm a complete beginner to coding as of June 2022 ! I'm self studying python inbetween work tasks.
-- 👀 Check out my code and tell me how to improve it!
+This script lists all files in a directory and prepares them for ip address removal. 
+It scans all text in the files and uses regex to replace any ip addresses with "***.***.***.***"
 
-
-<!---
-dilpz/dilpz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+any improvements to my code are appreciated.
 
 
 
